@@ -1,0 +1,29 @@
+body{
+    background-image:url("../images/kadai3.jpg");
+    background-attachment: fixed;
+}
+
+
+h1{
+    color:aliceblue;
+    font-size:50px;
+    font-family:monospace;
+    text-align:center;
+    background-color: black;
+}
+h3{
+    font-size:20px;
+    color:white;
+    background-color: black;
+    text-align:center;
+}
+h4{
+    color:blue;
+   font-size: 18px;
+    
+}
+
+p.link{
+    text-align:right;
+}
+
