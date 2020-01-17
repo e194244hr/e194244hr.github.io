@@ -1,0 +1,27 @@
+body{
+    background-image:url(../images/kadai4.jpg);
+}
+
+h1.top{
+    background-color:black;
+    color:white;
+    font-family:"impact";
+    font-size:50px;
+    text-align: center;
+}
+h2.tokyo{
+    background-color:black;
+    color:red;   
+}
+h2.ztmy{
+    background-color:black;
+    color:white;
+}
+h1.link{
+    background-color:black;
+    color: aliceblue;
+    font-size:30px;
+}
+p.setumei{
+    background-image:
+}

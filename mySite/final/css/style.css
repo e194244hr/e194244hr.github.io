@@ -1,0 +1,106 @@
+
+div.rap{
+    width:1000px;
+    margin:0px auto;
+}
+
+div.title{
+    width:1000px;
+    height:40;
+    margin-bottom: 10px;
+    background-color:black;
+    color:white;
+    font-size:30px;
+    font-family: "impact";
+}
+div.main{
+    width:1000px;
+    height:750px;
+    background-color:white;
+    font-size:0;
+}
+div.menu{
+    width:1000px;
+    height:40px;
+    background-color: white;
+    vertical-align : top; 
+    display:inline-block;
+    margin-bottom: 5px;
+}
+div.menu1{
+    width:245px;
+    height:40px;
+    background-color: black;
+    margin-right:5px;
+    display:inline-block;
+    text-align: center;
+    font-size:30px;
+    font-family: "impact";
+    color:white;
+}
+div.imagetext{
+    width:1000px;
+    height:705px;
+    background-color:azure;
+    vertical-align : top; 
+    display:inline-block;
+}
+div.imagebox{
+    background-color: black;
+    width:700px;
+    height:390px;
+    margin: auto;
+    position: relative;
+    margin-bottom: 10px;
+}
+div.image{
+    width:650px;
+    height:350px;
+    background-color: black;
+    text-align:center;
+    font-size:30px;
+    line-height: 350px;
+    color:black;
+    position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+div.textbox{
+    background-color: black;
+    width:700px;
+    height:300px;
+        margin:0px auto;
+    position: relative;
+}
+div.article{
+    width:650px;
+    height:250px;
+    background-color:white;
+    font-size:17px;
+    color:black;
+     position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+div.footer{
+    width:1000px;
+    height:30;
+    margin-top: 10px;
+    background-color:turquoise;
+    color:white;
+    font-family: "impact";
+    font-size:20px;
+    text-align: right;
+}
+p.HP{
+    text-align: right;
+}
+p.Site{
+    text-align: right;
+}

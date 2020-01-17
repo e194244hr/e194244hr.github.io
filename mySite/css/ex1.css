@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/ex1.jpg);
+    background-attachment: fixed;
+    background-repeat:repeat;
+    
+}
+
+
+h1{
+    color:yellow;
+    background-color:darkblue;
+    text-align: center;
+}
+h3{
+    background-color:darkblue;
+    color:aliceblue;
+    text-align:center;
+}
+table{
+    background-image: url(../images/ex1_2.jpg);
+}
+ol{
+    font-size: 10px;
+    background-image: url(../images/ex1_2.jpg);
+}
+address{
+    color:white;
+    text-align: right;
+}

@@ -1,0 +1,56 @@
+div.title{
+    width:1000px;
+    height:100px;
+    background-color: aquamarine;
+    font-size:75px;
+    font-family: "impact";
+    padding-left: 30px;
+}
+spen.menuitem{
+    width:200px;
+    height:30px;
+    background-color: antiquewhite;
+    font-size:20px;
+    font-family: "impact";
+    text-align:center;
+    display: inline-block;
+    border:5px dotted pink;
+    margin-top:5px;
+    
+}
+spen.image1{
+    color: white;
+    width: 300px;
+    height:200px;
+    background-color: black;
+    display: inline-block;
+}
+spen.image2{
+    color: white;
+    width: 400px;
+    height:200px;
+    background-color: black;
+    display: inline-block;
+}
+spen.image3{
+    color: white;
+    width: 300px;
+    height:200px;
+    background-color: black;
+    display: inline-block;
+    display: inline-block;
+}
+div.article{
+    color: black;
+    width: 1000px;
+    height:100px;
+    background-color: bisque;
+    text-align: center;
+}
+div.footer{
+    width: 1000px;
+    height:30px;
+    background-color:aqua;
+    font-size:20px;
+    text-align: right;
+}
